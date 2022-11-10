@@ -1,6 +1,6 @@
 # PX3 - CoreML S3Uploader for ML dataset
 
-# Overall : For collect ML Dataset by iPhone
+# Overall : For collecting ML Dataset by iPhone
 
 This app is to collecting ML Dataset by iPhone easily and save S3 bucket from remote area.
 This system's overall is as follows:
