@@ -2,7 +2,7 @@
 
 # Overall : For collecting ML Dataset by iPhone or iPad (iOS)
 
-This app is to collecting ML Dataset by iPhone easily and save S3 bucket from remote area.
+This app is to collect ML Dataset by iPhone easily and save S3 bucket from remote area.
 This system's overall is as follows:
 
 <img src="https://user-images.githubusercontent.com/48679574/201074649-5a035b77-fcbb-4db7-a5c8-66eacd811b21.png" width="500" height="500"/>
