@@ -10,12 +10,12 @@ This system's overall is as follows:
 
 
 # How to Use
-
-0. make Amazon Cognito ID Pool at AWS Cognito and create bucket at S3 
-1. select Photo
-2. Predict image by ResNet50 as you like
-3. input image name and label as upload name
-4. upload photo and label with name
+1. install AWS API by podfile
+2. make Amazon Cognito ID Pool at AWS Cognito and create bucket at S3 
+3. select Photo
+4. Predict image by ResNet50 as you like
+5. input image name and label as upload name
+6. upload photo and label with name to S3 bucket
 
 # PX3 - Putting into action
 
