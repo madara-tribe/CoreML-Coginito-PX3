@@ -1,4 +1,4 @@
-# CoreML S3Uploader PX3
+# PX3 - CoreML S3Uploader for ML dataset
 
 # Overall : For collect ML Dataset by iPhone
 
@@ -16,9 +16,9 @@ This system's overall is as follows:
 3. input image name and label as upload name
 4. upload photo and label with name
 
-# Put PX3 into action
+# PX3 - Putting into action
 
-<img src="https://user-images.githubusercontent.com/48679574/201074577-be933019-a421-4e15-b14b-f7d9f100b25b.gif" width="400" height="600"/>
+<img src="https://user-images.githubusercontent.com/48679574/201076523-1a5bec58-a71b-4b23-93bb-05aa697b968b.gif" width="400" height="600"/>
 
 
 # References
